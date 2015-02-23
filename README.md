@@ -22,6 +22,7 @@ I chose to scrape tweets from the following news sources in order to obtain data
 The results of the data scraping and subsequent tweet classification are shown in Figure 1 below:
 
 **Figure 1:**
+
 News Source | Positive | Negative | Neutral
 ------------|----------|----------|---------
 NBC News | | | 
