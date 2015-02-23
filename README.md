@@ -19,19 +19,21 @@ I chose to scrape tweets from the following news sources in order to obtain data
    *  Drudge Report
    *  Daily Caller
 
-The results of the data scraping and subsequent tweet classification are shown in Figure 1 below:
+The percentage breakdowns for each news source's tweet classification are shown in Figure 1 below:
 
 **Figure 1:**
 
 News Source | Positive | Negative | Neutral
 ------------|----------|----------|---------
+Overall | | | 
 NBC News | | | 
 CBS News | | | 
 MSNBC | | | 
 LA Times | | | 
 Boston Globe | | | 
 Weekly Standard | | | 
-Vox | | | 
+Vox | 26% | 24% | 50%  
 Slate | | | 
-Drudge Report | | | 
+Drudge Report | 15% | 30% | 55% 
 Daily Caller | | | 
+
