@@ -5,16 +5,16 @@ This github repository contains all of the components to this project including 
 
 I chose to scrape tweets from the following news sources to get data from a wide range of media sources. I picked 10 media sources that gave me the most complete picture of the current media landscape and allowed for the most cross-sectional analysis. The primary differences between these organizations are ideology, geographic location, and method of delivery.  The full list of news sources appears below.
 
-*Television
-    *NBC News
-    *CBS News
-    *MSNBC
-*Newspaper/Print
-    *LA Times
-    *Boston Globe
-    *Weekly Standard
-*Internet News
-    *Vox
-    *Slate
-    *Drudge Report
-    *Daily Caller
+*  Television
+   *  NBC News
+   *  CBS News
+   *  MSNBC
+*  Newspaper/Print
+   *  LA Times
+   *  Boston Globe
+   *  Weekly Standard
+*  Internet
+   *  Vox
+   *  Slate
+   *  Drudge Report
+   *  Daily Caller
